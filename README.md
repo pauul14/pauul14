@@ -2,7 +2,7 @@
 
 I'm a fourth-year BS Computer Applications student majoring in Embedded Systems at Mindanao State University - Iligan Institute of Technology (MSU-IIT).
 
-I enjoy developing software, working with microcontrollers, and exploring how hardware and software work together.
+Developing software, working with microcontrollers, and exploring how hardware and software work together.
 
 ## Technical Skills
 
