@@ -25,4 +25,3 @@ Developing software, working with microcontrollers, and exploring how hardware a
 
 - Undergraduate thesis: Flood Risk Communication and Decision Support System for Improving Community Preparedness (FRCDSS)
 - Improving my software and embedded systems development skills
-- Preparing for my On-the-Job Training (OJT)
